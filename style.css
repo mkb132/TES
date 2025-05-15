@@ -1,0 +1,26 @@
+body {
+  background: white;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  font-family: sans-serif;
+  color: black
+}
+summary {
+  font-weight: bold;
+  font-family: sans-serif;
+  color: black
+}
+ul {
+  font-weight: normal;
+  font-family: sans-serif;
+  color: black
+}
+p {
+  font-weight: normal;
+  font-family: sans-serif;
+  color: black
+}
